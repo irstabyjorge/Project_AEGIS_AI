@@ -1,0 +1,546 @@
+{
+  "commit": "24e833e9fc1dd9204216db9ad8e4c36a0656ff31",
+  "commits": [
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T11:53:46-08:00",
+      "sha": "24e833e9fc1dd9204216db9ad8e4c36a0656ff31",
+      "subject": "Merge PETS AEGIS IP Shield coverage charter"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T11:52:29-08:00",
+      "sha": "306f60a1447fbfdf64b42f955faafba6538ad6fd",
+      "subject": "Add additive-only PETS AEGIS IP Shield coverage charter"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T11:00:47-08:00",
+      "sha": "8f4efd078073525443756c4581c14076bff6395f",
+      "subject": "Install AEGIS GitHub IP SHIELD provenance workflow (#1)"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T01:23:57-07:00",
+      "sha": "207e8a8696dd4d9882b4d754e7997729749f7fa9",
+      "subject": "Add Sovereign AI: package.json"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T01:23:56-07:00",
+      "sha": "23d358f57f2f47d876e25a98d5ce885b90792e94",
+      "subject": "Add Sovereign AI: core/system.js"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T01:23:54-07:00",
+      "sha": "e19466d4e56b6a658513cd003f9d2bb255b4881a",
+      "subject": "Add Sovereign AI: economic/economic.js"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T01:23:52-07:00",
+      "sha": "6a11869137dfb25c1682a18da31dd9fb3bb2ac7c",
+      "subject": "Add Sovereign AI: matrix/agents.js"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T01:23:51-07:00",
+      "sha": "02c28052bfafc165be1abcb6048fc7032b2167c6",
+      "subject": "Add Sovereign AI: vector/memory.js"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T01:08:21-07:00",
+      "sha": "f07a87b3cced3f2e423bef26c1c0dba7ed4434db",
+      "subject": "Update requirements — add AI/ML stack"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T01:08:08-07:00",
+      "sha": "f9cc8ac3ef8ece58945328e4948046313f32c779",
+      "subject": "Update install_service.sh — AEGIS AI v2.0"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T01:08:06-07:00",
+      "sha": "30a603a30c688ff20604466f0c009e39bc652faa",
+      "subject": "Update aegis_icon.svg — AEGIS AI v2.0"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T01:08:05-07:00",
+      "sha": "0e17f0b951630bd0d9c585c81814fa0c11dbdd4f",
+      "subject": "Update aegis_chat.py — AEGIS AI v2.0"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T01:08:03-07:00",
+      "sha": "dcd6af802e84299f4f40ae1428c70340a7cfb8d7",
+      "subject": "Update aegis_daemon.py — AEGIS AI v2.0"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T01:08:01-07:00",
+      "sha": "6410f0de883bed441522f6d06aea0ad92a89012a",
+      "subject": "Update aegis_brain.py — AEGIS AI v2.0"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T00:38:11-07:00",
+      "sha": "314a03298e811b9e65691cf5e41dd8faeae3b9a2",
+      "subject": "Full module integration"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T00:38:10-07:00",
+      "sha": "f63467e33c061df14dd7b163493ac3702ccfb27f",
+      "subject": "Full module integration"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T00:38:09-07:00",
+      "sha": "8cbc4a26b86e526f5b6847f1ea7611e8854c3144",
+      "subject": "Add AEGIS application icon"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T00:38:07-07:00",
+      "sha": "87afff50acb5a02375671d3a0ffc8530905d4d12",
+      "subject": "Add AEGIS Chat — natural language security assistant"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T00:33:26-07:00",
+      "sha": "75057c1804f10fd6aa33cfd454cf0bd5827ed62d",
+      "subject": "Wire all 9 modules into CLI — full integration"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-30T00:33:25-07:00",
+      "sha": "64ae4fbca28e612d254a30679b61dbb98e527270",
+      "subject": "Wire all 9 modules into CLI — full integration"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T03:39:37-07:00",
+      "sha": "988b04a464958b38e5ad04a91a555b4c0cd35b7f",
+      "subject": "Update README — document all 9 security modules and 18 API endpoints"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T03:25:09-07:00",
+      "sha": "2e561b23c0a0ec2c224b5a97d6e6a48229d362d5",
+      "subject": "Update API server with 6 new security endpoints (18 total)"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T03:24:48-07:00",
+      "sha": "656a887bab00f417a9d0fe0ca41a46c939f44340",
+      "subject": "Add modules/payload_detector.py — AEGIS security module"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T03:24:47-07:00",
+      "sha": "bed1738ce7a240cce6a245cf1512a529128572c5",
+      "subject": "Add modules/password_audit.py — AEGIS security module"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T03:24:46-07:00",
+      "sha": "4f01dc15da2c8366e953e090987cba8c6cb3f10e",
+      "subject": "Add modules/forensics.py — AEGIS security module"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T03:24:45-07:00",
+      "sha": "1cae4c7dfa7cf16f9613511c545aeef6fc10ed7a",
+      "subject": "Add modules/ioc_scanner.py — AEGIS security module"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T03:24:44-07:00",
+      "sha": "42d65518a354bae4cb38c3eecd11af94e4e27adf",
+      "subject": "Add modules/honeypot.py — AEGIS security module"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T02:58:29-07:00",
+      "sha": "68954cb9450ad3380b2a37899fe133b4b99b7e07",
+      "subject": "Update README with security modules documentation"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T02:57:19-07:00",
+      "sha": "504f959b3d109c15a92bc006f763eaec6114d863",
+      "subject": "Add modules/vuln_scanner.py — AEGIS security module"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T02:57:17-07:00",
+      "sha": "0746b0f83c012887a9337c3640e334d21aca39cd",
+      "subject": "Add modules/uptime_monitor.py — AEGIS security module"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T02:57:17-07:00",
+      "sha": "93c0cb16445342c240c477b634c31e8a12603a93",
+      "subject": "Add modules/log_analyzer.py — AEGIS security module"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T02:57:16-07:00",
+      "sha": "6607a36a4af1bc77470867db903c129c91bec8c8",
+      "subject": "Add modules/api_server.py — AEGIS security module"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T02:57:15-07:00",
+      "sha": "17aa5498130b4d74aca7ab4f611ca894da0ca16d",
+      "subject": "Add modules/__init__.py — AEGIS security module"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T02:48:10-07:00",
+      "sha": "91d48e25aac70c9254fc88d4f4f8275bfd3c02f6",
+      "subject": "Update README with full platform documentation"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T02:47:26-07:00",
+      "sha": "d500352c85f6b8516488c7be3d6741c54e260446",
+      "subject": "Add real system monitoring module"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T02:46:46-07:00",
+      "sha": "22895ed2d37b013a844002bacb08c15b93713f92",
+      "subject": "Add Python dependencies"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T02:46:44-07:00",
+      "sha": "96b4322124f88e0639a3505b3331a051edc22524",
+      "subject": "Add AEGIS OMNI-XEON v2.0 core engine"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T02:46:42-07:00",
+      "sha": "93d59e19534587c754558b7adae9d3e55226fa99",
+      "subject": "Add AEGIS Unified v2.0 security platform"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T02:46:40-07:00",
+      "sha": "53ff512551e774cdb214c1e65fe6eeefaed58603",
+      "subject": "Add QByte-22 Quantum Security Engine"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-27T22:32:33-07:00",
+      "sha": "59e69c15a90fbf995402ed084036c76720fafc05",
+      "subject": "Add contribution guidelines"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-27T22:32:30-07:00",
+      "sha": "def8b7a045ba9860e2da876a6d8399f569517a70",
+      "subject": "Add security policy"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-27T22:32:27-07:00",
+      "sha": "712fa1eaab02143cfb8d839102b64b88dd4e0e29",
+      "subject": "Add premium commercial license agreement"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-27T22:31:57-07:00",
+      "sha": "2c572cb44fa1d45ccd0dc54154fd92bd654535d7",
+      "subject": "Add dual MIT/Commercial license"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-27T22:31:53-07:00",
+      "sha": "9a3d30ce3b36d50a2f3e278a6391f7b651c3cc43",
+      "subject": "Add GitHub Sponsors funding configuration"
+    },
+    {
+      "author_email_sha256": "91719714052f6a4115d703e6daf013bf05ecdbea98bc9f3e48c30611f1be34a4",
+      "author_name_declared": "irstaxbyjorge",
+      "authored_at_declared": "2025-08-04T01:10:18-07:00",
+      "sha": "60892323ba056616b95c4ee27bf716c01c787d03",
+      "subject": "Initial commit"
+    }
+  ],
+  "file_count_recorded": 34,
+  "file_inventory_truncated_at_25000": false,
+  "files": [
+    {
+      "git_blob_oid": "fdcc2d40816281ba40bf442a571b9dfb6d110c0c",
+      "mode": "100644",
+      "path": ".github/FUNDING.yml",
+      "sha256": "4724e0acb77b28c33aec89cdbe2c48092752ba625c6df50b518a2565bbc01076"
+    },
+    {
+      "git_blob_oid": "496523ebf8a2f8179732701a82e626efb6977e8c",
+      "mode": "100644",
+      "path": ".github/workflows/aegis-ip-shield.yml",
+      "sha256": "6b128bd094d276f1cbe06adb086ac00a7489b6131663092ec8ffe077d54ac56b"
+    },
+    {
+      "git_blob_oid": "6b6a651bc6c1aee0b27231c4603f11c3c947ec9e",
+      "mode": "100644",
+      "path": "COMMERCIAL_LICENSE.md",
+      "sha256": "948c655a1953ef76d190b83dc2fd60ce46452d640cfe8b1921cadc541ea76089"
+    },
+    {
+      "git_blob_oid": "010204986a65e5f8529d4f461131ab0a02d41fee",
+      "mode": "100644",
+      "path": "CONTRIBUTING.md",
+      "sha256": "c57b3def307bee2398d18967988fcf056802ea3b6fa8356eb4d7d18285831db6"
+    },
+    {
+      "git_blob_oid": "d56e845d57a3c9309b05fdc09605173471b25d54",
+      "mode": "100644",
+      "path": "LICENSE",
+      "sha256": "171c287e6a54fd2de0a036e4d2e3af968fe32b9ff8417e88359b6a2175c916eb"
+    },
+    {
+      "git_blob_oid": "6191ddab93961c8452e34b1c7d7005f18e9370fb",
+      "mode": "100644",
+      "path": "README.md",
+      "sha256": "3b5c43922667ef15ea2ff3be750cb4a65c239a584cde9dbf9eec93dad5370900"
+    },
+    {
+      "git_blob_oid": "7f23f7cd4bf0337b6de7801ad993e31df7392ea6",
+      "mode": "100644",
+      "path": "SECURITY.md",
+      "sha256": "3a264b2371ae58bffa1223250b1eefc28cfd21cf231009057be3b4b014dbc1ad"
+    },
+    {
+      "git_blob_oid": "8c7b198fe7785ccbb246208ea3abef264565f273",
+      "mode": "100644",
+      "path": "aegis_brain.py",
+      "sha256": "e0b12c2382c5644cd488c55fd924cbfcc78db8f67d564064f7cc3c0a0f6fe3af"
+    },
+    {
+      "git_blob_oid": "bee25805b1b29f60e207f4bb187eb70c23d0f44e",
+      "mode": "100644",
+      "path": "aegis_chat.py",
+      "sha256": "7fbc0d1c688c7c21a3f0f7b71f7944f373c8adf64c4fee95b26d2181b235d5ef"
+    },
+    {
+      "git_blob_oid": "2a85f94f5825491f43dffaf84d3464df69f6b788",
+      "mode": "100644",
+      "path": "aegis_daemon.py",
+      "sha256": "6ab356e74f3817fc78149e4081cc5c4b47309a7d46468e1d48d5d788b01640fd"
+    },
+    {
+      "git_blob_oid": "ffdf0d0aee4e96074e8604cb3434f25d321a3cbc",
+      "mode": "100644",
+      "path": "aegis_icon.svg",
+      "sha256": "2e0d09713e382aa46cb646f5740938a5b2e8b74d70a77945f2171989e1509edc"
+    },
+    {
+      "git_blob_oid": "93f537ed6e0cf7e5fa50d56f9789cd3a146bbb2a",
+      "mode": "100644",
+      "path": "aegis_omni.py",
+      "sha256": "4ff822f475686ab3afdcf214c904dad8dbbdca2b0698eb896f0266bbe7ddad57"
+    },
+    {
+      "git_blob_oid": "aa92247ec02b28dbe92b15826e1eefe7a4fef34f",
+      "mode": "100644",
+      "path": "aegis_real.py",
+      "sha256": "b6763e134c3e8a48b3a04017e346455e3cb879601f76b8403e05f6e73ab5602d"
+    },
+    {
+      "git_blob_oid": "c2f74dc09a6c56aca19df7b1430beb56afd7ca0f",
+      "mode": "100644",
+      "path": "aegis_unified.py",
+      "sha256": "14a103e9e8ad5636eafd104537d03e2bad813254e5659714f2a50708ae84774b"
+    },
+    {
+      "git_blob_oid": "142fe07594bcb1e2a659982f48504ecc156ab0b7",
+      "mode": "100644",
+      "path": "docs/IP_SHIELD_GITHUB.md",
+      "sha256": "1b3d5f528dcc66959b29f71af8f93e991fa31e4f6aa5f92bab5525f745adb4c0"
+    },
+    {
+      "git_blob_oid": "6d259b6574ddd2e833f30672b7172e9711f95134",
+      "mode": "100644",
+      "path": "docs/PETS_AEGIS_IP_SHIELD_COVERAGE_CHARTER.md",
+      "sha256": "d7d5987c5216759b02a9780b16c077d7cacf59c3a8cc09e342fb8830fe82c664"
+    },
+    {
+      "git_blob_oid": "d5facd1d85f849da3b457cb2064aa72bd2a44638",
+      "mode": "100644",
+      "path": "install_service.sh",
+      "sha256": "1c3646207a6de19329a4515f5453af09a644366eaeedf12bde986b81ac84f8c9"
+    },
+    {
+      "git_blob_oid": "74472904495d723441012f1d837c7e2b249382a7",
+      "mode": "100644",
+      "path": "modules/__init__.py",
+      "sha256": "43a8d262ab094b628582a35b469cdfcc2d950682368d013ed574f915a38dc904"
+    },
+    {
+      "git_blob_oid": "f77ee1b9568186d1eb80194f4d336f8516e7585d",
+      "mode": "100644",
+      "path": "modules/api_server.py",
+      "sha256": "0dbc7c2058f25c6461da5f026f034b5b206a942152e2fa5ba914dbdd5ac5ef9c"
+    },
+    {
+      "git_blob_oid": "68b7fbff7846f6df37cb4e7f1eae678dda7a6ea5",
+      "mode": "100644",
+      "path": "modules/forensics.py",
+      "sha256": "837f96982c6771526f15b43e3011c45acb5e1518aa10347748b297b8a9966acc"
+    },
+    {
+      "git_blob_oid": "b32d29fef314acc355fde0fa5720cc0ee942d3b9",
+      "mode": "100644",
+      "path": "modules/honeypot.py",
+      "sha256": "8abb02d8427e4e45d0f9379cd7c6d7a682b91d9018ba03f38671f33ee9ebd405"
+    },
+    {
+      "git_blob_oid": "174d1ae28dec418fbdb7ea47642029daeb2def68",
+      "mode": "100644",
+      "path": "modules/ioc_scanner.py",
+      "sha256": "9b7cef4a48878bb37a17ee3f18f0446586ec3c878b57899eedaada60c7499bd2"
+    },
+    {
+      "git_blob_oid": "877f20c4098ae4177a629700d2a62022e0486a09",
+      "mode": "100644",
+      "path": "modules/log_analyzer.py",
+      "sha256": "847f3461e2ba9b01f82551b85e6d6874979e00c1d51b7dec5d4a61bdd824cbff"
+    },
+    {
+      "git_blob_oid": "7eafea9dc68f3b62fb0130aece31dcbdf8cd92b7",
+      "mode": "100644",
+      "path": "modules/password_audit.py",
+      "sha256": "3d2bd48f3c0380afcab93663a840e9106e6e83199dc0c5e531cdf6858a83466c"
+    },
+    {
+      "git_blob_oid": "17cba11df7b83cf577c8a81d11312b005f402a2a",
+      "mode": "100644",
+      "path": "modules/payload_detector.py",
+      "sha256": "750e04ccaf2e9b4405db1beba67381b2f1e41973cebbac925d31ab8c5374042f"
+    },
+    {
+      "git_blob_oid": "3102f50397fe42dc21cff9f9b35926d503851aa1",
+      "mode": "100644",
+      "path": "modules/uptime_monitor.py",
+      "sha256": "6eecf9cd45f3b628b5c4aadf9b039f527d5e5f53b5c840ba7d912593edce1e84"
+    },
+    {
+      "git_blob_oid": "50d8ba98eee116d546e7136adfc5cad1b3c76fbc",
+      "mode": "100644",
+      "path": "modules/vuln_scanner.py",
+      "sha256": "a62efe8c5f7cd34bcab0b30d8bb10d3b8937bfaf719edac035cc5850d46280a5"
+    },
+    {
+      "git_blob_oid": "31a68ea1e36b952c93dc83f49341dacae1fed19a",
+      "mode": "100644",
+      "path": "qbyte_engine.py",
+      "sha256": "0468b07f5e108c25b3f11473feb2dd93704057b723a80bf41ac8a636cfbf910f"
+    },
+    {
+      "git_blob_oid": "f412915ed871cc1c6d94c821efc922ddc0bfdc20",
+      "mode": "100644",
+      "path": "requirements.txt",
+      "sha256": "8d1e80aa5fdb377928c0948c4bce8d5dd95eb397e00a86d615c0735bb3733f9c"
+    },
+    {
+      "git_blob_oid": "615c0c7a5991a1918ca70a19a9500802d1e5a9c5",
+      "mode": "100644",
+      "path": "sovereign-ai/core/system.js",
+      "sha256": "e9f309357041e59b2839ac18d7d3eea7f507aba6590e4be1ef3aac040dc86370"
+    },
+    {
+      "git_blob_oid": "17a70322241d17ef418b8f94ca20a578d25c388a",
+      "mode": "100644",
+      "path": "sovereign-ai/economic/economic.js",
+      "sha256": "068bff3de7329c6ab94045fc279587d33c2cb6ce2529bdd5c8e2636721a5a2e4"
+    },
+    {
+      "git_blob_oid": "92aa1026316e7af6566d51fabe058d09f33db75b",
+      "mode": "100644",
+      "path": "sovereign-ai/matrix/agents.js",
+      "sha256": "587b8ef6bc8b45795142ae534bee17f75c4aabd848074af94f9210be57ef39a5"
+    },
+    {
+      "git_blob_oid": "c81384cc3d1dfa4b115b4c88398436188f410b77",
+      "mode": "100644",
+      "path": "sovereign-ai/package.json",
+      "sha256": "0588812c87a1c7b8ca6351611681d581aae5fa1dd05b759f4e5b6e334ade45db"
+    },
+    {
+      "git_blob_oid": "f845b1d340c8bb5b68cd77db897901acc635516a",
+      "mode": "100644",
+      "path": "sovereign-ai/vector/memory.js",
+      "sha256": "07a428b14a658b83dc86892f2658af45ac60079a9c2fd302f5deaea3110b3c43"
+    }
+  ],
+  "generated_at_utc_runner_clock": "2026-11-13T19:54:32.823947+00:00",
+  "limits": [
+    "Git author and timestamp fields are declared metadata, not verified identity or trusted time.",
+    "Hashes identify recorded bytes; they do not prove authorship, originality, ownership or infringement.",
+    "The report contains paths and hashes, not source-file contents.",
+    "The runner clock is not a trusted timestamp authority.",
+    "Third-party and joint contributions retain applicable rights and licenses.",
+    "The ledger branch is versioned evidence, not immutable storage.",
+    "Only this repository and triggered refs are covered."
+  ],
+  "manifest_type": "AEGIS_GITHUB_IP_SHIELD_PROVENANCE",
+  "manifest_version": "1.0",
+  "ref": "refs/heads/main",
+  "ref_name": "main",
+  "repository": "irstabyjorge/Project_AEGIS_AI",
+  "tree": "2cf0add2a208692abd11f4b3c9e9ccf971395e29",
+  "workflow_run_attempt": "1",
+  "workflow_run_id": "43496471068"
+}
